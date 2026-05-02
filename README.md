@@ -91,7 +91,7 @@ Allows users to analyze **HR, R&D, and Sales departments** individually.
 
 
 ## 🖼️ Screenshots / Demos
-![HR Dashboard](https://github.com/sanikag99/HR-Analytics/blob/main/Snapshot%20of%20HR%20Analytics%20Dashboard.png)
+![Workforce Dashboard](https://github.com/sanikag99/Workforce-Attrition-Dashboard/blob/main/Snapshot%20of%20Workforce%20Attrition%20Dashboard.png)
 
 
 
