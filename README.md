@@ -1,8 +1,7 @@
-# HR-Analytics
-# 📊 HR Analytics Dashboard
+# 📊 Workforce Attrition Dashboard
 
 ## 🔹 Short Description / Purpose
-The HR Analytics Dashboard is an interactive Power BI report designed to analyze employee data and identify key factors influencing attrition. It helps HR teams understand workforce trends and make data-driven decisions to improve employee retention and overall organizational performance.
+The Workforce Attrition Dashboard is an interactive Power BI report designed to analyze employee data and identify key factors influencing attrition. It helps HR teams understand workforce trends and make data-driven decisions to improve employee retention and overall organizational performance.
 
 
 
